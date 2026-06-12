@@ -10,6 +10,10 @@ numbering:
   title:
     enabled: false
 no-update-date: true
+
+downloads:
+  - file: _static/Presentatie DiDaDoDa.pptx
+    title: Presentatie
 ---
 
 
