@@ -13,7 +13,13 @@ project:
 
 extends:
   - toc.yml            
+  - export.yml
     
 site:
   template: book-theme
- 
+  
+  actions:
+    - title: Feedback
+      url: https://github.com/Natuurkunde/didadoda/issues
+    - title: PDF 
+      url: exports/book.pdf

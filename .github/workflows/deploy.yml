@@ -40,8 +40,25 @@ jobs:
       - name: Install MyST
         run: npm install -g mystmd
 
+      - name: Install ImageMagick
+        run: sudo apt-get update && sudo apt-get install -y imagemagick
+
+      - name: Setup Typst
+        uses: typst-community/setup-typst@v4
+
+      - name: Build PDF
+        run: |
+          myst build --typst
+
+      - name: Upload Output PDF as Artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: Output PDF
+          path: exports/*.pdf
+          compression-level: 0
+          
       - name: Build HTML Assets
-        run: myst build --html --execute
+        run: myst build --html
 
       - name: Upload HTML artifact
         uses: actions/upload-pages-artifact@v3

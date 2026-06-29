@@ -20,9 +20,9 @@ no-update-date: true
 
 *DiDaDoDaDocenten*  
 
-[Presentatie](_static/Presentatie DiDaDoDa.pptx)
-
 ```{figure} figuren/cover.JPG
 ```
 
 +++
+
+[Presentatie](_static/Presentatie DiDaDoDa.pptx)
