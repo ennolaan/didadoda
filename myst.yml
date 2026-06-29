@@ -22,4 +22,4 @@ site:
     - title: Feedback
       url: https://github.com/Natuurkunde/didadoda/issues
     - title: PDF 
-      url: exports/book.pdf
+      url: ./exports/book.pdf
