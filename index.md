@@ -25,4 +25,4 @@ no-update-date: true
 
 +++
 
-[Presentatie](_static/Presentatie DiDaDoDa.pptx)
+[Presentatie](./_static/Presentatie%20DiDaDoDa.pptx)
