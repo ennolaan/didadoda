@@ -9,7 +9,7 @@ De blackbox heeft vier aansluitpunten en bevat enkel weerstanden. Er is echter n
 Er zijn vier restricties aan de schakeling in de blackbox:<br>
 (1)	Er zijn geen interne verbindingen tussen de weerstanden. Als voorbeeld: onderstaande schakeling is uitgesloten omdat de vier weerstanden in het midden verbonden zijn.
 ```
-{figure} ../figuren/BB3Rfig1.jpg
+{figure}../figuren/BB3Rfig1.jpg
  :width: 100%
  :label:
  ```
