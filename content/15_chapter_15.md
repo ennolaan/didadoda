@@ -13,6 +13,18 @@ Er zijn vier restricties aan de schakeling in de blackbox:<br>
  :width: 100%
  :label:
  ```
+
+```{figure} ../figuren/Atwood.png
+:width: 70%
+:name: fig_Atwood_setup 
+:alt: De Atwood-opstelling bestaat uit een luchtbaan met daarop een karretje en een gewicht dat met een klein draadje aan het karretje is bevestigd.
+
+De opstelling van Atwood: een karretje op een luchtkussenbaan wordt versneld door een massa bevestigd aan het karretje via een draadje dat loopt over een lichtlopend katrol.
+```
+
+
+
+
 <br>
 (2)	Het is niet mogelijk om langs verschillende paden van een willekeurig aansluitpunt naar een ander willekeurig aansluitpunt te gaan. Als voorbeeld: onderstaande aansluiting is uitgesloten omdat er twee paden zijn om van de aansluiting linksboven naar de aansluiting rechtsboven te gaan.
 
