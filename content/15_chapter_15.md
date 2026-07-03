@@ -10,9 +10,10 @@ Er zijn vier restricties aan de schakeling in de blackbox:<br>
 (1)	Er zijn geen interne verbindingen tussen de weerstanden. Als voorbeeld: onderstaande schakeling is uitgesloten omdat de vier weerstanden in het midden verbonden zijn.
 ```
 {figure} ../figuren/BB3Rfig1.jpg
- :width: 100% 
+ :width: 100%
  :label:
  ```
+<br>
 (2)	Het is niet mogelijk om langs verschillende paden van een willekeurig aansluitpunt naar een ander willekeurig aansluitpunt te gaan. Als voorbeeld: onderstaande aansluiting is uitgesloten omdat er twee paden zijn om van de aansluiting linksboven naar de aansluiting rechtsboven te gaan.
 
 ```{figure} ../figuren/naambestand.jpg
