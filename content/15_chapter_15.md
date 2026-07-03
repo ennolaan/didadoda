@@ -6,7 +6,7 @@ author: Enno van der Laan
  
 **Inleiding**
 De blackbox heeft vier aansluitpunten en bevat enkel weerstanden. Er is echter niet gegeven hoeveel weerstanden er in de blackbox zitten en ook niet hoe deze zijn geschakeld.
-Er zijn vier restricties aan de schakeling in de blackbox:
+Er zijn vier restricties aan de schakeling in de blackbox:<br>
 (1)	Er zijn geen interne verbindingen tussen de weerstanden. Als voorbeeld: onderstaande schakeling is uitgesloten omdat de vier weerstanden in het midden verbonden zijn.
 ```
 {figure} ../figuren/BB3Rfig1.jpg
